@@ -1,7 +1,7 @@
 # C-Dersleri
 
 
-### şimdilik yarıda kalmış bir repo....
+### şimdilik yarıda kalmış bir repo..
 
 
 
